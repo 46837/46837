@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-### <div align="center">I'm Nada, a Frontend web developer 👨‍💻 </div>  
+## <div align="center">I'm Nada, a Frontend web developer 👨‍💻 </div>  
 
 - 🌱 I’m currently learning other frontend tehcnologies and frameworks  
 
