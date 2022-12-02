@@ -7,11 +7,6 @@
 - 🌱 I’m currently learning other frontend tehcnologies and frameworks  
 
 
-- ❓ Ask me about anything related to Frontend and related technologies  
-
-
-- ⚡ Fun fact: I love design  
-
 
 <br/>  
 
